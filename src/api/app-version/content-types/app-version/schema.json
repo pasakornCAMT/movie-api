@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "app_versions",
+  "info": {
+    "singularName": "app-version",
+    "pluralName": "app-versions",
+    "displayName": "App Version"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "androidName": {
+      "type": "string"
+    },
+    "androidNumber": {
+      "type": "string"
+    },
+    "iosName": {
+      "type": "string"
+    },
+    "iosNumber": {
+      "type": "string"
+    }
+  }
+}

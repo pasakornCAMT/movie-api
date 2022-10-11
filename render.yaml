@@ -1,7 +1,7 @@
 
 services:
   - type: web
-    name: mobie-api
+    name: strapi
     env: node
     plan: starter
     buildCommand: yarn install && yarn build
